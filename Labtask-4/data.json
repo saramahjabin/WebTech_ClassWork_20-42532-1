@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Sara Mahjabin Hridita",
+        "Email": "saramahjabin@gmail.com",
+        "User_Name": "Sara30",
+        "Password": "RRRR@2000",
+        "Gender": "Female",
+        "Date_of_Birth": "2000-11-30",
+        "Image": "images\/sara.jpg",
+        "Id": 1
+    },
+    {
+        "Name": "Sarzila Sahrin Aronica",
+        "Email": "sarzila@gmail.com",
+        "User_Name": "Sarzila30",
+        "Password": "RTdvyudu@23",
+        "Gender": "Female",
+        "Date_of_Birth": "2000-10-18",
+        "Image": "images\/sarzila.jpeg",
+        "Id": 2
+    },
+    {
+        "Name": "Mushfiqur Rahman",
+        "Email": "mushi@gmail.com",
+        "User_Name": "Mushfiq70",
+        "Password": "Mushi@120",
+        "Gender": "Male",
+        "Date_of_Birth": "1997-12-11",
+        "Image": "images\/images.png",
+        "Id": 3
+    },
+    {
+        "Name": "pakpaj",
+        "Email": "sndks@yahoo.com",
+        "User_Name": "PakPak30",
+        "Password": "Pakpak@30",
+        "Gender": "Other",
+        "Date_of_Birth": "2022-03-29",
+        "Image": "images\/images.png",
+        "Id": 4
+    },
+    {
+        "Name": "Ananna Rashid",
+        "Email": "anna20@gmail.com",
+        "User_Name": "Ananna",
+        "Password": "anaaa@200",
+        "Gender": "Female",
+        "Date_of_Birth": "2000-10-18",
+        "Image": "images\/Hridita.jpg",
+        "Id": 5
+    }
+]
